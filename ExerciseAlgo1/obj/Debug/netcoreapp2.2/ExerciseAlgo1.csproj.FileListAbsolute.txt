@@ -1,0 +1,11 @@
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\bin\Debug\netcoreapp2.2\ExerciseAlgo1.deps.json
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\bin\Debug\netcoreapp2.2\ExerciseAlgo1.runtimeconfig.json
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\bin\Debug\netcoreapp2.2\ExerciseAlgo1.runtimeconfig.dev.json
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\bin\Debug\netcoreapp2.2\ExerciseAlgo1.dll
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\bin\Debug\netcoreapp2.2\ExerciseAlgo1.pdb
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\obj\Debug\netcoreapp2.2\ExerciseAlgo1.csprojAssemblyReference.cache
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\obj\Debug\netcoreapp2.2\ExerciseAlgo1.csproj.CoreCompileInputs.cache
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\obj\Debug\netcoreapp2.2\ExerciseAlgo1.AssemblyInfoInputs.cache
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\obj\Debug\netcoreapp2.2\ExerciseAlgo1.AssemblyInfo.cs
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\obj\Debug\netcoreapp2.2\ExerciseAlgo1.dll
+E:\UMY\semester3\AlgoritmaStructurData\ExerciseAlgo1\ExerciseAlgo1\obj\Debug\netcoreapp2.2\ExerciseAlgo1.pdb
